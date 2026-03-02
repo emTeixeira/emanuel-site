@@ -49,7 +49,7 @@ export const projects: Project[] = [
     fullDescription: "Desenvolvemos um site atraente para doceria e confeitaria com cardápio digital interativo e galeria de fotos dos pratos. O design foca em despertar o apetite e facilitar a experiência do cliente.",
     features: ["Cardápio digital", "Galeria de fotos", "Integração delivery", "Google Maps integrado"],
     image: "/assets/projects/projeto-doceria.jpg",
-    liveUrl: "",
+    liveUrl: "https://eli-cordeiro-doces.vercel.app/",
     whatsappMessage: "Olá, gostaria de solicitar um orçamento para um site de doceria e confeitaria.",
     seo: {
       title: "Site para Doceria e Confeitaria | Emanuel Teixeira - Web Developer",
