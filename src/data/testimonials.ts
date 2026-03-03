@@ -12,7 +12,7 @@ export const testimonials: Testimonial[] = [
     text: "O site ficou incrível! Superou minhas expectativas e transmite exatamente a imagem que eu queria para meu trabalho.",
   },
   {
-    name: "Robson Cardoso",
+    name: "Ricardo Costa",
     role: "Escritório de Advocacia",
     text: "Fiquei muito satisfeito com o site de advocacia desenvolvido pelo Emanuel. O resultado ficou moderno, organizado e transmite exatamente a imagem profissional que eu queria passar.",
   },
