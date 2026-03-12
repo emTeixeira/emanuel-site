@@ -1,4 +1,4 @@
-# Criação de Sites Profissionais – Emanuel Teixeira
+# Emanuel Teixeira - Sites Profissionais
 
 Este projeto é uma **landing page profissional** criada para captar clientes interessados em serviços de criação de sites. O site inclui seções de projetos, feedbacks de clientes, links para contato via WhatsApp e redes sociais, além de SEO otimizado para melhor visibilidade.
 
